@@ -17,11 +17,13 @@ Create with love by [@Nikodermus](https://github.com/Nikodermus)
 
 ### You can find:
 
--   B/W or the color variants under [/editable](/editable) in Adobe Illustrator format
--   Hoddie Mockup under [/editable](/editable) in Adobe Photoshop format
--   [PNG](/exported/png) and [SVG](/exported/svg) exported images for B/W or the color variants under [/exported](/exported)
--   Exported Hoodies images and things in this README in [/other](/exported/other)
+-   B/W or the color variants under [/editable](/editable) in Adobe Illustrator (.ai) format.
+-   Hoddie Mockup under [/editable](/editable) in Adobe Photoshop (.psd) format.
+-   [PNG](/exported/png) and [SVG](/exported/svg) exported images for B/W or the color variants under [/exported](/exported).
+-   Exported Hoodies images and things in this README in [/other](/exported/other).
 
-## License
+## License(s)
 
-This project is licensed under [©Creative Commons](/LICENSE)
+### This project is licensed under [©Creative Commons](/LICENSE).
+
+### Font is [English Towne](https://www.dafont.com/english-towne.font) by [Dieter Steffmann](http://www.steffmann.de/).
