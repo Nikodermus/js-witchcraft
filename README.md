@@ -8,8 +8,8 @@ Create with love by [@Nikodermus](https://github.com/Nikodermus)
 
 1. Hoodies
 
-    | [Purple Hoodie for JavaScript. It's Witchcraft](/exported/other/hoodie-green-over-purple.png 'Hoddie green over purple') | [Black Hoodie for JavaScript. It's Witchcraft](/exported/other/hoodie-yello-over-black.png 'Hoddie yellow over black') | [Blue Hoodie for JavaScript. It's Witchcraft](/exported/other/hoodie-react-blues.png 'Hoddie React blues') |
-    | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+    | ![Purple Hoodie for JavaScript. It's Witchcraft](/exported/other/hoodie-green-over-purple.png 'Hoddie green over purple') | ![Black Hoodie for JavaScript. It's Witchcraft](/exported/other/hoodie-yellow-over-black.png 'Hoddie yellow over black') | ![Blue Hoodie for JavaScript. It's Witchcraft](/exported/other/hoodie-react-blues.png 'Hoddie React blues') |
+    | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
 
 1. You tell me ♥️
 
